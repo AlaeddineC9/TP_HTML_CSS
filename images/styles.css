@@ -1,0 +1,28 @@
+.wrapper{
+    position:absolute;
+  }
+  .verde{
+    height:4rem;
+    width:2rem;
+    background-color:#006847;
+    position:absolute;
+    top:0;
+  }
+  .blanco{
+    height:4rem;
+    width:2rem;
+    background-color:white;
+    background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Mexico.svg/245px-Coat_of_arms_of_Mexico.svg.png") center no-repeat white;
+    background-size:80%;
+    position:absolute;
+    top:0;
+    left:2rem;
+  }
+  .rojo{
+    height:4rem;
+    width:2rem;
+    background-color:#CE1126;
+    position:absolute;
+    top:0;
+    left:4rem;
+  }
